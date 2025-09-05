@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class SWEA4796 {
+public class 20250813_SWEA4796{
 	static int T;
 	static int N;
 	static int height[];
